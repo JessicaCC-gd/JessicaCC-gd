@@ -14,10 +14,10 @@ Experienced in teaching After Effects & 3D Animation and working as a general ar
 [![Game Dev.](https://skillicons.dev/icons?i=godot,unity,unreal)](#Skills)
 
 #### Art
-[![Art](https://skillicons.dev/icons?i=blender)](#Skills) <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>\n
+[![Art](https://skillicons.dev/icons?i=blender)](#Skills) <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" width="40" height="40" hspace="7"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original-wordmark.svg" width="40" height="40"/> \
 [![Art](https://skillicons.dev/icons?i=ps,ai,pr,ae)](#Skills) 
 
 #### Others
-[![Others](https://skillicons.dev/icons?i=gmail)](#Skills)
+[![Others](https://skillicons.dev/icons?i=linux)](#Skills)
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio.jmcc.art/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicacarrico/)
