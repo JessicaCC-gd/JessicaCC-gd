@@ -1,6 +1,6 @@
 # Hi, I'm Jessica! 👋
 
-Passionate about 3D Art and Software Development, based in Portugal. Graduated in Digital Game Design and currently a cadet at 42, pursuing Software Development.
+Passionate about 3D Art and Software Development, based in Portugal. Graduated in Digital Game Design and currently a cadet at 42 Porto, pursuing Software Development.
 
 Experienced in teaching After Effects & 3D Animation and working as a general artist in mobile games. Skilled in 3D modeling, animation, programming (C, Python/GDScript), and various software such as Blender, Maya, and Photoshop.
 
